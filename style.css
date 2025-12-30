@@ -5,7 +5,7 @@ body {
   font-family: Arial, sans-serif; /* Fonte padrão do site */
 
   /* Imagem de fundo */
-  background-image: url('jp.jpeg');
+  background-image: url('dani.jpeg');
   background-size: cover; /* Faz a imagem cobrir toda a tela */
   background-position: center; /* Centraliza a imagem */
   background-repeat: no-repeat; /* Evita repetição da imagem */
@@ -221,3 +221,4 @@ button:hover {
 #finalPoem {
   display: none !important; /* Nunca mostrar este bloco */
 }
+

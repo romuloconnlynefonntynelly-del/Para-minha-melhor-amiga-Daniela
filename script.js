@@ -5,7 +5,7 @@
 // Este array guarda os nomes que podem acessar a carta.
 // Se o nome digitado estiver aqui, a pessoa entra.
 // Se não estiver, o acesso é negado.
-const nomesPermitidos = ["adonai001"];
+const nomesPermitidos = ["daniela","dani","vivian"];
 // Obs: pode adicionar mais nomes dentro das aspas, separados por vírgula
 
 
@@ -449,4 +449,5 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
 });
+
 
